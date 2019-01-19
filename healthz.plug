@@ -1,0 +1,9 @@
+[Core]
+Name = Healthz
+Module = healthz
+
+[Documentation]
+Description = An Err plugin that responds to health checks.
+
+[Python]
+Version = 3
